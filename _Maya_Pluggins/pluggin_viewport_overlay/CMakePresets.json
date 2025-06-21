@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "configurePresets": [
+    {
+      "name": "default",
+      "cacheVariables": {
+        "MAYA_SDK": "/Applications/Autodesk/maya2024",
+        "MAYA_INCLUDE_DIR": "/Applications/Autodesk/maya2024/include",
+        "MAYA_LIB_DIR": "/Applications/Autodesk/maya2024/lib"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>blender_icon_shading_solid.png</file>
+    <file>blender_icon_shading_texture.png</file>
+    <file>blender_icon_shading_wire.png</file>
+    <file>blender_icon_xray.png</file>
+    <file>blender_icon_checkmark.png</file>
+    <file>blender_icon_downarrow_hlt.png</file>
+    <file>blender_icon_overlay.png</file>
+  </qresource>
+</RCC>

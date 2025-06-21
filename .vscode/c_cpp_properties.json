@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Maya2024",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/Applications/Autodesk/maya2024/include",
+        "/Applications/Autodesk/maya2024/include/maya"
+      ],
+      "macFrameworkPath": [
+        "/Applications/Autodesk/maya2024/Maya.app/Contents/Frameworks",
+        "/System/Library/Frameworks",
+        "/Library/Frameworks"
+      ],
+      "compilerPath": "/usr/bin/clang++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "macos-clang-x64"
+    }
+  ],
+  "version": 4
+}
